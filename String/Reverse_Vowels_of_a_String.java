@@ -6,6 +6,7 @@ public class Reverse_Vowels_of_a_String{
 
     }
 
+
      public static String reverseVowels(String s) {
 
         char [] arr=s.toCharArray();
